@@ -1,6 +1,6 @@
 # Testing
 Testing HINQ032 - My first repo
-#Teast Heading
-*One
-*Two
-*Three
+# Test Heading
+* One
+* Two
+* Three
